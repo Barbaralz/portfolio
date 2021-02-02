@@ -7,7 +7,7 @@ Swal.fire({
     timer: '5000',
     timerProgressBar: true,
     // toast: true,
-    position: 'top-end',
+    // position: 'top-end',
     imageUrl:  'asset/img/blz.jfif',
     imageWidth: '200px',
     imageAlt: 'Photo profil poppup',
