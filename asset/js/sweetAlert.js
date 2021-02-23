@@ -1,5 +1,5 @@
 Swal.fire({
-    title: "Bienvenu",
+    title: "Bienvenue",
     text: "Je ne l'ai pas encore terminé mais vous pouvez avoir le design",
     confirmButtonText: 'Allons-y !',
     backdrop: false,
